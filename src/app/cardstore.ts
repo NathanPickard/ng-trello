@@ -1,4 +1,4 @@
-import { CardSchema } from './cardschema';
+import { CardSchema } from './CardSchema';
 
 export class CardStore {
 
