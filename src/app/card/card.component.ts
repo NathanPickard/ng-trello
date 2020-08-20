@@ -8,7 +8,7 @@ import { CardSchema } from '../CardSchema';
 })
 export class CardComponent implements OnInit {
 
-  @Input() card: CardSchema
+  @Input() card: CardSchema;
 
   constructor() { }
 
